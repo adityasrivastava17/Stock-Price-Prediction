@@ -63,14 +63,7 @@ stock-price-prediction/
 - All contributors and users for their support and feedback.
 
 
-### How to Use
 
-1. **Create a new file named `README.md` in your project directory.**
-2. **Copy and paste the above Markdown code into the `README.md` file.**
-3. **Customize the `git clone` URL and any other project-specific details as needed.**
-4. **Save the file and commit it to your repository.**
-
-This will create a well-structured README file for your GitHub project, helping users understand, install, and use your stock price prediction web application.
 
 
 
