@@ -56,11 +56,11 @@ This project is a web application built with Streamlit that allows users to visu
 
 ## Contributing
 
-1. **Contributions are welcome! Please fork this repository and submit a pull request for any features, enhancements, or bug fixes.**
+ **Contributions are welcome! Please fork this repository and submit a pull request for any features, enhancements, or bug fixes.**
 
 ## License
 
-1. **This project is licensed under the MIT License. See the LICENSE file for more details.**
+ **This project is licensed under the MIT License. See the LICENSE file for more details.**
 
 ## Acknowledgements
 
