@@ -1,6 +1,6 @@
 # Stock Price Prediction Web Application
 This repository contains a comprehensive web application for stock price prediction, developed using Streamlit. The application integrates various machine learning models and financial indicators to provide stock price visualizations, recent data analysis, and predictive analytics.
-#Features
+Features
 Stock Data Retrieval: Fetch historical stock data using the yFinance API.
 Technical Indicators: Calculate and visualize Bollinger Bands, MACD, EMA, SMA, and RSI for technical analysis.
 Machine Learning Models: Utilize Linear Regression, K-Nearest Neighbors, XGBoost, RandomForest, ExtraTrees, and Neural Networks for stock price prediction.
