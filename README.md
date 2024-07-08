@@ -39,7 +39,7 @@ This project is a web application built with Streamlit that allows users to visu
    ```bash
    streamlit run StockFinal.py
    
-2. Nanigate to the local web address provided by Streamlit to interact with the application
+2. Navigate to the local web address provided by Streamlit to interact with the application
 
 ## Directory Structure
 
