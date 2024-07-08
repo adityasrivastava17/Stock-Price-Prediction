@@ -30,23 +30,29 @@ This project is a web application built with Streamlit that allows users to visu
    git clone https://github.com/yourusername/stock-price-prediction.git
    cd stock-price-prediction
 2. **Install the required packages:**
-   '''bash
-   pip install -r requirements.txt
+   ```bash
+    pip install -r requirements.txt
 
 ## Usage
 
 1. **Run the Streamlit application:**
-   '''bash
+   ```bash
    streamlit run StockFinal.py
+   
 2. Nanigate to the local web address provided by Streamlit to interact with the application
 
 ## Directory Structure
 
-'''bash
-stock-price-prediction/
-├── StockFinal.py      # Main application script
-├── requirements.txt   # List of required Python packages
-└── README.md          # Project documentation
+    ```bash
+     stock-price-prediction/
+     ├── StockFinal.py      # Main application script
+     ├── requirements.txt   # List of required Python packages
+     └── README.md          # Project documentation
+
+
+
+
+
 
 ## Contributing
 
